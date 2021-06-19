@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return "Hello this is flaskftp3!"
+    return "Hello this is flaskftp3, everyone!"
